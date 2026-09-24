@@ -1,0 +1,6 @@
+{
+  "name": "Papaya Bot",
+  "description": "Premium modern Telegram-based rewards platform and admin control center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
